@@ -1,0 +1,33 @@
+#foto{
+    margin: 5px;
+}
+body{
+    background-color: rgba(14, 65, 143, 0.856);
+}
+#titulo{
+    color: yellow;
+    text-align: center;
+}
+p{
+    color: white;
+    font: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    line-height: 1.5;
+}
+img{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+#txt{
+    text-align: left;
+}
+h2{
+    color: yellow;
+}
+h3{
+    color: yellow;
+}
+mark{
+    background-color: rgba(170, 118, 21, 0.829);
+}
